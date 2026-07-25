@@ -1,0 +1,76 @@
+=========================================
+       ANALISIS KELOMPOK SD 
+=========================================
+N (Jumlah Responden) : 16
+
+[RELIABILITAS INSTRUMEN]
+- Cronbach's Alpha Pretest  : 0.145
+- Cronbach's Alpha Posttest : 0.308
+
+[UJI NORMALITAS GAIN SCORE]
+- P-Value Shapiro-Wilk      : 0.2618 -> Distribusi Normal
+
+[UJI HIPOTESIS PRE VS POST]
+- Metode Uji                : Paired T-Test (Parametrik)
+- P-Value (Signifikansi)    : 0.00011 -> Signifikan (Terdapat Perbedaan)
+
+[EFEKTIVITAS SOSIALISASI]
+- Rata-rata N-Gain          : 0.320 (Kategori: Sedang)
+
+=========================================
+       ANALISIS KELOMPOK GURUSD 
+=========================================
+N (Jumlah Responden) : 11
+
+[RELIABILITAS INSTRUMEN]
+- Cronbach's Alpha Pretest  : 0.730
+- Cronbach's Alpha Posttest : 0.556
+
+[UJI NORMALITAS GAIN SCORE]
+- P-Value Shapiro-Wilk      : 0.7932 -> Distribusi Normal
+
+[UJI HIPOTESIS PRE VS POST]
+- Metode Uji                : Paired T-Test (Parametrik)
+- P-Value (Signifikansi)    : 0.00000 -> Signifikan (Terdapat Perbedaan)
+
+[EFEKTIVITAS SOSIALISASI]
+- Rata-rata N-Gain          : 0.986 (Kategori: Tinggi)
+
+=========================================
+       ANALISIS KELOMPOK SMP 
+=========================================
+N (Jumlah Responden) : 17
+
+[RELIABILITAS INSTRUMEN]
+- Cronbach's Alpha Pretest  : 0.098
+- Cronbach's Alpha Posttest : 0.733
+
+[UJI NORMALITAS GAIN SCORE]
+- P-Value Shapiro-Wilk      : 0.3740 -> Distribusi Normal
+
+[UJI HIPOTESIS PRE VS POST]
+- Metode Uji                : Paired T-Test (Parametrik)
+- P-Value (Signifikansi)    : 0.00083 -> Signifikan (Terdapat Perbedaan)
+
+[EFEKTIVITAS SOSIALISASI]
+- Rata-rata N-Gain          : 0.261 (Kategori: Rendah)
+
+=========================================
+       ANALISIS KELOMPOK GURUSMP 
+=========================================
+N (Jumlah Responden) : 6
+
+[RELIABILITAS INSTRUMEN]
+- Cronbach's Alpha Pretest  : 0.695
+- Cronbach's Alpha Posttest : 0.404
+
+[UJI NORMALITAS GAIN SCORE]
+- P-Value Shapiro-Wilk      : 0.1433 -> Distribusi Normal
+
+[UJI HIPOTESIS PRE VS POST]
+- Metode Uji                : Paired T-Test (Parametrik)
+- P-Value (Signifikansi)    : 0.00870 -> Signifikan (Terdapat Perbedaan)
+
+[EFEKTIVITAS SOSIALISASI]
+- Rata-rata N-Gain          : 0.908 (Kategori: Tinggi)
+
