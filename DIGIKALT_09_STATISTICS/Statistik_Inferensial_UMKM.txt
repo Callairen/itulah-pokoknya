@@ -1,0 +1,22 @@
+=========================================
+       ANALISIS KELOMPOK UMKM
+=========================================
+N (Jumlah Responden) : 10
+
+[RELIABILITAS INSTRUMEN]
+- Cronbach's Alpha Pretest  : 0.747
+- Cronbach's Alpha Posttest : 0.627
+
+[UJI NORMALITAS GAIN SCORE]
+- P-Value Shapiro-Wilk      : 0.0153 -> Distribusi Tidak Normal
+
+[UJI HIPOTESIS PRE VS POST]
+- Metode Uji                : Wilcoxon Signed-Rank Test (Non-Parametrik)
+- P-Value (Signifikansi)    : 0.00781 -> Signifikan (Terdapat Perbedaan)
+
+[EFEKTIVITAS SOSIALISASI]
+- Rata-rata N-Gain          : 0.447 (Kategori: Sedang)
+- Rata-rata Gain Score      : 4.90
+- Rata-rata Pre_Total       : 21.60
+- Rata-rata Post_Total      : 26.50
+
