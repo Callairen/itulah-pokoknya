@@ -1,0 +1,5 @@
+=== UJI HIPOTESIS PERBEDAAN RATA-RATA ===
+Distribusi Data (Shapiro-Wilk P-Value) : 0.0153 (Tidak Normal)
+Metode Uji : Wilcoxon Signed-Rank Test (Non-Parametrik)
+P-Value    : 0.00781 (Signifikan)
+Mean N-Gain: 0.447
